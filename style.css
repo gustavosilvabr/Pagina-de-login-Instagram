@@ -114,10 +114,10 @@ body{
     background-size: cover;
 }
 .app-dowload:nth-child(1){
-    background-image: url('/src/img/apple-button.png');
+    background-image: url('img/apple-button.png');
 }
 .app-dowload:nth-child(2){
-    background-image: url('/src/img/googleplay-button.png');
+    background-image: url('img/googleplay-button.png');
 }
 
 /* media queries */
